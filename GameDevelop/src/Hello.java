@@ -19,9 +19,7 @@ public class Hello {
 
 
        System.out.println("hello "+3456);
-	}
-
-}
+	}}
 
 // for string use next or nextLine
 // for integer use nextInt
@@ -29,3 +27,4 @@ public class Hello {
 // for float use nextFloat
 
 //
+// end of code
